@@ -1,6 +1,10 @@
 # highlight-directive
 An Angular 5 directive that highlights text based on a string parameter.
 
+## Install node modules
+
+Run `npm install` to install node modules and dependencies.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`.
